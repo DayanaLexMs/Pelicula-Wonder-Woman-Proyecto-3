@@ -11,5 +11,8 @@ package modelo;
 public class Personaje {
     
     protected String nombre;
+    protected String origen;
+    protected int vida;
+    protected String tipo;
     
 }
